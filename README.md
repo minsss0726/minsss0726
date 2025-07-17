@@ -1,21 +1,52 @@
-## Hi there 👋
+# 👋 Hi there! I'm MinJung
 
-<!--
-**minsss0726/minsss0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+풀스택 공부를 하고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositories
 
+### 🔹 [ThisisJava](https://github.com/minsss0726/ThisisJava)  
+자바 기초 문법과 객체지향 개념을 학습한 저장소입니다.
 
+### 🔹 [OmokWebService](https://github.com/minsss0726/OmokWebService)  
+Servlet 기반으로 제작한 오목 게임 웹 서비스입니다. WebSocket을 활용하여 실시간 통신을 구현했습니다.
+
+### 🔹 [OhGoodFood](https://github.com/minsss0726/OhGoodFood)  
+Spring Framework와 JSP를 기반으로 멀티쇼핑몰 웹 서비스입니다.
+
+### 🔹 [CodingTest](https://github.com/minsss0726/CodingTest)  
+백준, 프로그래머스 등 다양한 플랫폼에서의 코딩 테스트 문제 풀이를 정리한 저장소입니다.
+
+---
+
+## 🧾 Certifications
+
+- 정보처리산업기사 
+- SQLD 
+- MOS Excel
+- MOS PowerPoint
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat&logo=java&logoColor=white)
+
+---
+
+## 📫 Contact
+
+📧 Email: wndtmgld551@naver.com , wndtmgld5551@gmail.com
+
+---
+
+## 🌾 My Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsss0726&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minsss0726"
