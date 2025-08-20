@@ -18,6 +18,9 @@ Spring Framework와 JSP를 기반으로 멀티쇼핑몰 웹 서비스입니다.
 ### 🔹 [CodingTest](https://github.com/minsss0726/CodingTest)  
 백준, 프로그래머스 등 다양한 플랫폼에서의 코딩 테스트 문제 풀이를 정리한 저장소입니다.
 
+### 🔹 [ReactPractice](https://github.com/minsss0726/ReactPractice)  
+리액트 기반의 프론트엔드 코딩을 연습하는 저장소입니다.
+
 ---
 
 ## 🧾 Certifications
