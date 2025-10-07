@@ -17,6 +17,7 @@ Spring Framework와 JSP를 기반으로 멀티쇼핑몰 웹 서비스입니다.
 
 ### 🔹 [OhgoodPay](https://github.com/OhGoodTeam/OhgoodpayBE)  
 SpringBoot와 React 기반의 후불 결제 + 숏폼 서비스입니다.
+추가 문서 ㅣ https://ohgoodteam.github.io/OhgoodpayML/
 
 ### 🔹 [CodingTest](https://github.com/minsss0726/CodingTest)  
 백준, 프로그래머스 등 다양한 플랫폼에서의 코딩 테스트 문제 풀이를 정리한 저장소입니다.
