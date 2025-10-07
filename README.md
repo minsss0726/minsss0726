@@ -12,8 +12,11 @@
 ### 🔹 [OmokWebService](https://github.com/minsss0726/OmokWebService)  
 Servlet 기반으로 제작한 오목 게임 웹 서비스입니다. WebSocket을 활용하여 실시간 통신을 구현했습니다.
 
-### 🔹 [OhGoodFood](https://github.com/minsss0726/OhGoodFood)  
+### 🔹 [OhgoodFood](https://github.com/minsss0726/OhGoodFood)  
 Spring Framework와 JSP를 기반으로 멀티쇼핑몰 웹 서비스입니다.
+
+### 🔹 [OhgoodPay](https://github.com/OhGoodTeam/OhgoodpayBE)  
+SpringBoot와 React 기반의 후불 결제 + 숏폼 서비스입니다.
 
 ### 🔹 [CodingTest](https://github.com/minsss0726/CodingTest)  
 백준, 프로그래머스 등 다양한 플랫폼에서의 코딩 테스트 문제 풀이를 정리한 저장소입니다.
