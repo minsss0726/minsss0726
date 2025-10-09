@@ -14,6 +14,7 @@ Servlet 기반으로 제작한 오목 게임 웹 서비스입니다. WebSocket�
 
 ### 🔹 [OhgoodFood](https://github.com/minsss0726/OhGoodFood)  
 Spring Framework와 JSP를 기반으로 멀티쇼핑몰 웹 서비스입니다.
+추가 문서 | https://ohgoodteam.github.io/OhGoodFood/
 
 ### 🔹 [OhgoodPay](https://github.com/OhGoodTeam/OhgoodpayBE)  
 SpringBoot와 React 기반의 후불 결제 + 숏폼 서비스입니다.
