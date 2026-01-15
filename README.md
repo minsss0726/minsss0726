@@ -9,6 +9,9 @@
 ### 🔹 [ThisisJava](https://github.com/minsss0726/ThisisJava)  
 자바 기초 문법과 객체지향 개념을 학습한 저장소입니다.
 
+### 🔹 [ShinhanDS SW Academy Website]
+신한DS 금융SW 아카데미 웹 사이트를 개발하였습니다.
+
 ### 🔹 [OmokWebService](https://github.com/minsss0726/OmokWebService)  
 Servlet 기반으로 제작한 오목 게임 웹 서비스입니다. WebSocket을 활용하여 실시간 통신을 구현했습니다.
 
