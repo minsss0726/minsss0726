@@ -9,7 +9,7 @@
 ### 🔹 [ThisisJava](https://github.com/minsss0726/ThisisJava)  
 자바 기초 문법과 객체지향 개념을 학습한 저장소입니다.
 
-### 🔹 ShinhanDS SW Academy Website
+### 🔹 [ShinhanDS SW Academy Website](https://shinhanacademy.com)
 신한DS 금융SW 아카데미 웹 사이트를 개발하였습니다.
 
 ### 🔹 [OmokWebService](https://github.com/minsss0726/OmokWebService)  
