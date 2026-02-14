@@ -2,6 +2,9 @@
 
 풀스택 공부를 하고 있습니다.
 
+### 🔹 [Portfolio](https://portfolio-eosin-kappa-93.vercel.app/)
+포트폴리오 연결 링트
+
 ---
 
 ## 📂 Repositories
