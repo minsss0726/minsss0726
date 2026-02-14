@@ -9,7 +9,7 @@
 ### 🔹 [ShinhanDS SW Academy Website](https://shinhanacademy.com)
 신한DS 금융SW 아카데미 웹 사이트를 개발하였습니다.
 
-### 🔹 [LiveCouponService](https://github.com/minsss0726/ThisisJava](https://github.com/minsss0726/LiveCouponBE)
+### 🔹 [LiveCouponService](https://github.com/minsss0726/LiveCouponBE)
 Redis를 활용한 대용량 요청 처리 서비스입니다.
 
 ### 🔹 [OhgoodPay](https://github.com/OhGoodTeam/OhgoodpayBE)  
